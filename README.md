@@ -8,7 +8,4 @@ After cloning this repository into a directory, follow these steps:
 1. Click Load Unpacked Extension and select the directory for your "Hello Extensions" extension.
 
 ## Screenshot
-<div style="border: solid 1px #000; font-size: 0">
-
-![screenshot](docs/preview.png)
-</div></div>
+<kbd>![](docs/preview.png)</kbd>
